@@ -95,8 +95,6 @@ button:focus,
 .profile {
 	display: flex;
 	align-content: center;
-	max-width: 700px;
-	margin: 0 auto;
 }
 
 .page-header {
