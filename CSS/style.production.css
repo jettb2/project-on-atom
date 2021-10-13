@@ -131,6 +131,8 @@ button:focus,
 	display: flex;
 	-ms-flex-line-pack: center;
 	    align-content: center;
+    max-width: 700px;
+    margin: 0px auto;
 }
 
 .page-header {
@@ -362,7 +364,7 @@ a {
 
 .description {
 	margin-left: 1rem;
-	max-width: 500px
+	max-width: 300px
 }
 
 @media screen and (max-width: 500px) {
