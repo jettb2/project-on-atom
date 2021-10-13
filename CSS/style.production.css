@@ -61,7 +61,7 @@ button {
 	-webkit-transition-property: opacity;
 	-o-transition-property: opacity;
 	transition-property: opacity;
-	color: white;
+	color: white !important;
 }
 
 button {
@@ -126,8 +126,11 @@ button:focus,
 }
 
 .profile {
-	max-width: 700px;
-	margin: 0 auto;
+	display: -webkit-box;
+	display: -ms-flexbox;
+	display: flex;
+	-ms-flex-line-pack: center;
+	    align-content: center;
 }
 
 .page-header {
