@@ -254,3 +254,9 @@ button:focus,
 a {
 	color: var(--primary-color);
 }
+
+.profile-pic {
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
