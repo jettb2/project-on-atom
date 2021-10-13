@@ -61,7 +61,7 @@ button {
 	-webkit-transition-property: opacity;
 	-o-transition-property: opacity;
 	transition-property: opacity;
-	color: white !important;
+	color: white;
 }
 
 button {
