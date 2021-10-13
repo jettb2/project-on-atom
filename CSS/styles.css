@@ -262,3 +262,7 @@ a {
 	justify-content: center;
 	align-items: center;
 }
+
+.profile-container {
+	display: flex;
+}
