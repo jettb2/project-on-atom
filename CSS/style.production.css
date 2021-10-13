@@ -373,7 +373,14 @@ a {
 		-webkit-box-direction: normal;
 		    -ms-flex-direction: column;
 		        flex-direction: column;
+		-ms-flex-line-pack: center;
+		    align-content: center;
 	}
+	.description {
+		text-align: center;
+	}
+}
+
 	.description {
 		text-align: center;
 	}
