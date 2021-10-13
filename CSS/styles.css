@@ -271,3 +271,12 @@ a {
 	margin-left: 1rem;
 	max-width: 300px
 }
+
+@media screen and (max-width: 500px) {
+	.profile-container {
+		flex-direction: column;
+	}
+	.description {
+		text-align: center;
+	}
+}
