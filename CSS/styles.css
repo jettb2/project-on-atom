@@ -266,3 +266,8 @@ a {
 .profile-container {
 	display: flex;
 }
+
+.description {
+	margin-left: 1rem;
+	max-width: 300px
+}
