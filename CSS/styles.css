@@ -266,6 +266,7 @@ a {
 
 .profile-container {
 	display: flex;
+	padding-top: 10px;
 }
 
 .description {
