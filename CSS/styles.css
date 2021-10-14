@@ -276,6 +276,9 @@ a {
 @media screen and (max-width: 500px) {
 	.profile-container {
 		flex-direction: column;
+		margin-left: auto;
+		margin-right: auto;
+		width: 50%;
 	}
 	.description {
 		text-align: center;
